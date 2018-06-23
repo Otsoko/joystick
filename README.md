@@ -2,6 +2,9 @@
 
 Arduino proyect using an analog joystick module and a MAX7219 led dot matrix module.
 
+## Demo ##
+![Demo](https://github.com/Otsoko/joystick/raw/master/joystick.gif)
+
 ## Schema ##
 ![Schema](https://github.com/Otsoko/joystick/raw/master/joystick_bb.png)
 
