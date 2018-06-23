@@ -9,7 +9,7 @@ Arduino proyect using an analog joystick module and a MAX7219 led dot matrix mod
 ![Schema](https://github.com/Otsoko/joystick/raw/master/joystick_bb.png)
 
 ## Description ##
-This program displays several arrow shapes corresponding to the directionthe joystick is momving to.
+This program displays several arrow shapes corresponding to the direction the joystick is moving to.
 
 A circle is displayed when the joystick is in rest position.
 
