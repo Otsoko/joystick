@@ -1,4 +1,4 @@
-## Joystick ##
+# Joystick #
 
 Arduino proyect using an analog joystick module and a MAX7219 led dot matrix module.
 
