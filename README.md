@@ -13,7 +13,7 @@ This program displays several arrow shapes corresponding to the directionthe joy
 
 A circle is displayed when the joystick is in rest position.
 
-A point is dispplayed if the joystick button is pressed.
+A point is displayed if the joystick button is pressed.
 
 The joystick `select` is connected to digital pin `8`. Horizontal output is connected to analog pin `A0`, vertical to analog pin `A1`.
 
